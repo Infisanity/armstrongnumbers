@@ -1,0 +1,1 @@
+E:\Trevian\Visual\ Studio\ Code\ Projects\GCI\ Projects\CCExtractor\armstrong_numbers\main_folder\target\debug\MainFolder.exe: E:\Trevian\Visual\ Studio\ Code\ Projects\GCI\ Projects\CCExtractor\armstrong_numbers\main_folder\src\main.rs
